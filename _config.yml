@@ -1,0 +1,27 @@
+title: Backend & AI Platform Engineering — 6-Week Plan
+description: Python systems depth + targeted DSA in 45–60 minute evening sessions.
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-optional-front-matter
+
+relative_links:
+  enabled: true
+  collections: false
+
+titles_from_headings:
+  enabled: true
+  strip_title: false
+
+exclude:
+  - "*.py"
+  - scratch/
