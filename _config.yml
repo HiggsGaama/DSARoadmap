@@ -1,8 +1,6 @@
 title: Backend & AI Platform Engineering — 6-Week Plan
 description: Python systems depth + targeted DSA in 45–60 minute evening sessions.
-remote-theme: mmistakes/so-simple-theme
-text_skin: dark
-highlight_theme: tomorrow-night-eighties
+remote-theme: poole/lanyon
 
 relative_links:
   enabled: true
